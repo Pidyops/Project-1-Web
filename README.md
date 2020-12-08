@@ -1,7 +1,7 @@
 # Open Classroom 
 2nd project - Web development
 
-https://github.com/Pidyops/TomMoers_2_11102020_A/settings
+https://pidyops.github.io/TomMoers_2_11102020_A/
 
 Feel free to join,
 
