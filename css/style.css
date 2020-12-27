@@ -391,7 +391,7 @@ input {
 }
 
 .a-filters:link:hover {
-	color: #0065FC;
+	color: #0065FC !important;
 }
 
 .a-filters a:visited {
